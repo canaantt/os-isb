@@ -1,0 +1,19 @@
+{
+  "name": "os-isb",
+  "version": "1.0.0",
+  "description": "sending cohort to ISB API using node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "isb",
+    "api",
+    "oncoscape"
+  ],
+  "author": "Jenny Zhang",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
+}
